@@ -1,0 +1,27 @@
+{
+    "name": "@example/basics",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "dev": "astro dev",
+        "start": "astro dev",
+        "build": "astro build",
+        "preview": "astro preview",
+        "astro": "astro"
+    },
+    "dependencies": {
+        "@heroicons/react": "^2.0.10",
+        "@types/react": "^18.0.18",
+        "@types/react-dom": "^18.0.6",
+        "astro": "^1.1.5"
+    },
+    "devDependencies": {
+        "@astrojs/react": "^1.1.1",
+        "@astrojs/tailwind": "^1.0.0",
+        "autoprefixer": "^10.4.8",
+        "postcss": "^8.4.16",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "tailwindcss": "^3.1.8"
+    }
+}
